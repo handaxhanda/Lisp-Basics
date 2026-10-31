@@ -1,0 +1,23 @@
+# Common Lisp / SBCL compiled output
+*.fasl
+
+# Alive-generated temporary sources and compilation files
+**/.vscode/alive/
+
+# Visual Studio local cache
+.vs/
+
+# Editor temporary files and backups
+*~
+*.swp
+*.swo
+*.bak
+*.backup.json
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Keep .vscode settings and *.code-workspace files tracked:
+# they provide this project's F5 launch configuration and workspace entry point.
